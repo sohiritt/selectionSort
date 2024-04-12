@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+  Tmp1.cpp
+  [COVER] Creating translation hash...
+  [COVER] Analyzing source files...
+  ERROR: CVERR_2008: Failed to execute program analyzer. Please refer to the CoverBuilder.log file in the  directory.
+  * The file with the problem
+  D:\Cover\QualityScroll-Cover-SE\works\.tmpa\workspace\6FE6E92154F41AAE0C236C9D5C70A2F4\project.db
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(687,5): error MSB6006: "CL.exe"이(가) 종료되었습니다(코드: 2008).

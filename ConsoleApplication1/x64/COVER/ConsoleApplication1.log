@@ -1,0 +1,4 @@
+﻿  error: "Test monitor service" is not responding. Please check the status of the service.
+  bypass coverage build. server is not responding.
+  Thrift: Fri Mar 15 15:22:26 2024 TSocket::open() connect() <Host: 127.0.0.1 Port: 9090>errno = 10061
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(687,5): error MSB6006: "CL.exe"이(가) 종료되었습니다(코드: -1).
